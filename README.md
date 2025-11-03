@@ -41,13 +41,8 @@ Initially inspired by an interest in rocketry, the project aimed to measure the 
 - Plotted thrust-time graphs in Google Sheets
 - Calculations: maximum thrust, burn duration, and total impulse
 
-## Results
-*PLACE HOLDER*
-
 ## Learnings & Challenges & Errors
 - Ensuring all variables remained constant during tests was difficult
 - One engine was improperly made, becoming a test engine for the stand
 - Calibration of the load cell was only performed once after all tests, affecting absolute accuracy
 - Learned importance of rigorous calibration and process control in experimental setups
-
-## Repository Structure
