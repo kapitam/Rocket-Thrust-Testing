@@ -1,0 +1,2 @@
+8mm and 6mm represents nozzle sizes in diameter
+5x10 50x5 and 25 25 represents compressions rations where front number is height in mm of compression and back number represents amounts of compressions
